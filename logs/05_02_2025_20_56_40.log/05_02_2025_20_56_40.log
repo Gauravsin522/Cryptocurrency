@@ -1,0 +1,11 @@
+[2025-05-02 20:56:40] 19 root - INFO - Logging setup complete.
+[2025-05-02 20:56:40] 20 root - INFO - This is an info message.
+[2025-05-02 20:56:40] 21 root - ERROR - This is an error message.
+[2025-05-02 20:56:40] 23 root - WARNING - This is a warning message.
+[2025-05-02 20:56:40] 24 root - CRITICAL - This is a critical message.
+[2025-05-02 20:56:40] 25 root - ERROR - This is an exception message.
+NoneType: None
+[2025-05-02 20:56:40] 26 root - INFO - Logging setup complete.
+[2025-05-02 20:56:40] 27 root - INFO - This is an info message.
+[2025-05-02 20:56:40] 28 root - ERROR - This is an error message.
+[2025-05-02 20:56:40] 30 root - WARNING - This is a warning message.
