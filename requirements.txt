@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+-e .
+# -e .  # Uncomment this line if you want to install the package in editable mode
